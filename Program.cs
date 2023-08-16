@@ -22,6 +22,10 @@ namespace Tiktok_analyse
             Interpoliert zeichen = new Interpoliert();
             zeichen.Interpol();
 
+            // Decimal Round - Decimal.Round - Math.Floor            
+            Round ro = new Round();
+            ro.Kaufmaennisch();
+
             Console.ReadKey();
         }
     }

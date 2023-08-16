@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class\ClassOneMethode.cs" />
+    <Compile Include="Class\DecimalRound.cs" />
     <Compile Include="Class\Interpoliert.cs" />
+    <Compile Include="Class\Round.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
