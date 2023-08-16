@@ -10,7 +10,7 @@ namespace Tiktok_analyse
     {
         static void Main(string[] args)
         {
-            // Das ist ein Kommentar 
+            // Das ist ein Kommentar!
         }
     }
 }
